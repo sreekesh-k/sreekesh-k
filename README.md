@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sreekesh-k&label=Profile%20views&color=0e75b6&style=flat" alt="sreekesh-k" /> </p>
 
-- 🌱 I’m currently learning **C**
-
-- 👨‍💻 All of my projects are available at [https://github.com/sreekesh-k](https://github.com/sreekesh-k)
+- 🌱 I’m currently persuing Master Of Computer Application Post Graduation course
 
 - 📫 How to reach me **sreekeshkprabhu.arp@gmail.com**
 
-- ⚡ Fun fact **I might look like I do nothing but in my mind I am quite busy.**
+- ⚡ Fun fact **I am a Bvoc Professional accounting and Taxation Graduate**
 
   
 <h3 align="left">Connect with me:</h3>
