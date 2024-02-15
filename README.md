@@ -4,7 +4,7 @@
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sreekesh_k_prabhu) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sreekesh-k-prabhu) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sreekesh-k-prabhu-7b835124a) 
 [![HackerRank](https://img.shields.io/badge/HackerRank-0A4C26.svg?logo=Hackerrank&logoColor=white)](https://www.hackerrank.com/sreekeshkprabhu1)
 
 # 💻 Tech Stack:
