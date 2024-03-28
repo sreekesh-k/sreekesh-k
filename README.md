@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on movie tickets reservation system(mini project)<br>👯 I’m looking to collaborate on web development <br>🤝 I’m looking for help with laravel<br>🌱 I’m currently learning java ,php and laravel <br>💬 Ask me about Object Oriented programming <br>⚡ Fun fact i am a Bvoc Professional accounting and taxation graduate
+👯 I’m looking to collaborate on web development <br>🤝 I’m looking for help with laravel<br>🌱 I’m currently learning java ,php and laravel <br>💬 Ask me about Object Oriented programming <br>⚡ Fun fact i am a Bvoc Professional accounting and taxation graduate
 
 
 ## 🌐 Socials:
