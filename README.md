@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=sreekesh-k&label=Profile%20views&color=0e75b6&style=flat" alt="sreekesh-k" />
 </p>
 
-I'm a student at Rajagiri College of Social Sciences in Kerala, passionate about coding and continuous learning. I love exploring new tech and thrive on challenges that push my creativity. I'm dedicated to writing clean, efficient code and enjoy collaborating on innovative projects. Excited to contribute to open-source and learn from the community. Let's create something awesome together!
+I'm a fullstack developer, passionate about coding and continuous learning. I love exploring new tech and thrive on challenges that push my creativity. I'm dedicated to writing clean, efficient code and enjoy collaborating on innovative projects. Excited to contribute to open-source and learn from the community. Let's create something awesome together!
 [Visit my website](https://sreekeshkprabhu.me)
 
 ## 🌐 Socials:
